@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AVCSearchCategory.iml" filepath="$PROJECT_DIR$/.idea/AVCSearchCategory.iml" />
+      <module fileurl="file://F:/AVCSearchProduct/.idea/AVCSearchProduct.iml" filepath="F:/AVCSearchProduct/.idea/AVCSearchProduct.iml" />
+      <module fileurl="file://E:/DpcMaijiawang/.idea/DpcMaijiawang.iml" filepath="E:/DpcMaijiawang/.idea/DpcMaijiawang.iml" />
+      <module fileurl="file://F:/prices_screenshot/.idea/prices_screenshot.iml" filepath="F:/prices_screenshot/.idea/prices_screenshot.iml" />
+    </modules>
+  </component>
+</project>

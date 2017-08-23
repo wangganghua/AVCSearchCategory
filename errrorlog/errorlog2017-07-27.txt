@@ -1,0 +1,137 @@
+2017-07-27 13:54:14 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:54:19 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:55:01 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:55:05 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:55:36 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:55:41 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:56:43 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:56:48 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:56:57 : search  total page category error: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电,errormessage:range() integer end argument expected, got str. 
+2017-07-27 13:58:10 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:58:59 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:59:04 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:59:32 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:59:42 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:59:47 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:59:52 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 13:59:56 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:01:46 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:02:15 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:02:44 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:02:57 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:04:18 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:04:23 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:04:26 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:04:32 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:07:32 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:08:07 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:08:10 : search  total page category error: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电,errormessage:HTTPSConnectionPool(host='list.tmall.com', port=443): Max retries exceeded with url: /search_product.htm?s=%7B0%7D&q=%E5%BD%A9%E7%94%B5 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x0000000002F595C0>: Failed to establish a new connection: [Errno 10061] ',))) 
+2017-07-27 14:08:27 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:08:32 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:08:37 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:09:07 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:09:53 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:10:24 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:10:29 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:10:35 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:10:59 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:11:09 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 14:14:17 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:14:48 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:14:53 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:14:59 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:16:37 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 14:16:50 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 14:17:04 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 14:17:15 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 14:18:07 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 14:18:43 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 14:18:55 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 14:19:07 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:19:16 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:19:44 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:20:27 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:21:33 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:21:36 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:21:39 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:23:02 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:23:16 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:23:20 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:23:48 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:23:54 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:24:04 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:24:07 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:24:29 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:24:34 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:24:50 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:25:44 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:26:40 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:27:09 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:28:07 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:28:12 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:28:15 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:28:20 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:28:29 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:28:36 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:29:31 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:29:34 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:29:46 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:49:36 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:49:48 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:50:07 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:50:53 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:51:03 : search  total page category error: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电,errormessage:HTTPSConnectionPool(host='list.tmall.com', port=443): Max retries exceeded with url: /search_product.htm?s=%7B0%7D&q=%E5%BD%A9%E7%94%B5 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x000000000398AF60>: Failed to establish a new connection: [Errno 10061] ',))) 
+2017-07-27 14:51:23 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:51:27 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:51:40 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:51:58 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:52:08 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:52:50 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:53:49 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:53:54 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:54:26 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:55:18 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:55:53 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:56:06 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:56:34 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:57:23 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:57:35 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:57:47 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 14:58:33 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 14:58:49 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 14:59:38 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=60&q=彩电? 
+2017-07-27 15:00:38 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=60&q=彩电? 
+2017-07-27 15:01:13 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:01:17 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:01:22 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:01:53 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:01:56 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:01:59 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:02:04 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:02:12 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:03:01 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:03:41 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:04:59 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:07:29 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:07:40 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:07:45 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:08:04 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:08:08 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:08:13 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:08:19 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:08:30 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:08:33 : search the total page regular isvalid ?: url:https://list.tmall.com/search_product.htm?s={0}&q=彩电 
+2017-07-27 15:14:34 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:14:48 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:15:34 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:15:50 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:16:04 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:16:55 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:17:08 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:18:04 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:18:19 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:18:34 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:18:50 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:19:15 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:19:29 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
+2017-07-27 15:19:44 : TM url---the first regular is valid:https://list.tmall.com/search_product.htm?s=0&q=彩电? 
